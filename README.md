@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @doriandevtech
+- 👋 Hi, I’m @doriandevtech !
 - 👀 I’m interested in creating web applications and mobile applications espacially on iOS devices
 - 🌱 I’m currently learning Biomedical & Numerical engineering
 - 💞️ I’m looking to collaborate on multiple web and mobile applications
-- 📫 How to reach me : my email dorianemenir@gmail.com
+- 📫 How to reach me : here is my email dorianemenir@gmail.com
 
 <!---
 doriandevtech/doriandevtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
