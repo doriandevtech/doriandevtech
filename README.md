@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @doriandevtech !
-- 👀 I’m interested in creating web applications and mobile applications espacially on iOS devices
-- 🌱 I’m currently learning Biomedical & Numerical engineering
+- 👀 I’m interested in creating web applications and mobile applications
+- 🌱 I’m currently searching a Software developer job
 - 💞️ I’m looking to collaborate on multiple web and mobile applications
-- 📫 How to reach me : here is my email dorianemenir@gmail.com
+- 📫 How to reach me ? Here is my email : dorianemenir@gmail.com
 
 Cheers !
 
