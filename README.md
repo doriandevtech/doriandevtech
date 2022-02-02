@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @doriandevtech !
-- 👀 I’m interested in creating web applications and mobile applications
-- 🌱 I’m currently searching for a Software developer job
-- 💞️ I’m looking to collaborate on multiple web and mobile applications
+- 👋 Hi, I’m @doriandevtech, nice to met me 😉 !
+- 👀 I’m interested in creating and developing web applications in a fullstack JS environment
+- 👨🏻‍💻 I’m currently looking for a job as a Software Engineer Fullstack JS
+- 👷🏻‍♂️ I’m looking to collaborate on multiple, intersting and large scaled projects
 - 📫 How to reach me ? Here is my email : dorianemenir@gmail.com
 
 Cheers !
