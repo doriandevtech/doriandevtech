@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @doriandevtech, nice to met me 😉 !
+- 👋 Hi, I’m @doriandevtech, nice to meet me 😉 !
 - 👀 I’m interested in creating and developing web applications in a fullstack JS environment
 - 👨🏻‍💻 I’m currently looking for a job as a Software Engineer Fullstack JS
 - 👷🏻‍♂️ I’m looking to collaborate on multiple, intersting and large scaled projects
