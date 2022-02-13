@@ -4,6 +4,13 @@
 - 👷🏻‍♂️ I’m looking to collaborate on multiple, intersting and large scaled projects
 - 📫 How to reach me ? Here is my email : dorianemenir@gmail.com
 
+Here is my personnal MOTTO :
+  - #1 - Learn 👨🏻‍🏫
+  - #2 - Code 👨🏻‍💻
+  - #3 - Repeat 🔁
+
+Not very original but it suits me very well 😊
+
 Cheers !
 
 <!---
