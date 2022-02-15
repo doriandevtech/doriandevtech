@@ -5,7 +5,7 @@
 📫 How to reach me ?
 - Email : dorianemenir@gmail.com
 - LinkedIn : www.linkedin.com/in/dorian-emenir-541b98144
-- Stackoverflow : dorianDevTech
+- Stackoverflow : https://stackoverflow.com/users/16067048/doriandevtech
 
 Here is my personnal MOTTO :
   - #1 - Learn 👨🏻‍🏫
