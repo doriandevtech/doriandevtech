@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Dorian, nice to meet me ! 😉
+# 🤙🏻 Hi, I’m Dorian, nice to meet me ! 😉
 
 👀 I’m interested in creating and developing **web applications** in a **fullstack JS environment**\
 👨🏻‍💻 I’m currently looking for a job as a **Software Engineer Fullstack JS**\
