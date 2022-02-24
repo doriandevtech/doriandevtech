@@ -11,7 +11,7 @@
 
 ### Here is my personnal MOTTO :
   - #1 - Learn 👨🏻‍🏫
-  - #2 - Code 👨🏻‍💻
+  - #2 - `Code` 👨🏻‍💻
   - #3 - Repeat 🔁
 
 Not very original but it suits me very well 😊
