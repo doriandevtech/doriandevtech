@@ -16,7 +16,7 @@
 
 Not very original but it suits me very well 😊
 
-Cheers !
+**Cheers ! 👋🏻**
 
 <!---
 doriandevtech/doriandevtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
