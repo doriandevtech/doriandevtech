@@ -10,9 +10,9 @@
 #### - Stackoverflow : https://stackoverflow.com/users/16067048/doriandevtech
 
 ### Here is my personnal MOTTO :
-  - #1 - Learn 👨🏻‍🏫
-  - #2 - `Code` 👨🏻‍💻
-  - #3 - Repeat 🔁
+  1. Learn 👨🏻‍🏫
+  1. `Code` 👨🏻‍💻
+  1. Repeat 🔁
 
 Not very original but it suits me very well 😊
 
