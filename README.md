@@ -14,8 +14,6 @@
   1. `Code` 👨🏻‍💻
   1. Repeat 🔁
 
-- 📫 How to **reach me** ?
-
 <h3 align="left">Connect with me:</h3>
 
 #### 📨 : dorianemenir@gmail.com
