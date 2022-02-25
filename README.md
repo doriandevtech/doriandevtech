@@ -91,9 +91,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doriandevtech&show_icons=true&border_color=8080001" alt="doriandevtech" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doriandevtech&hide=python&show_icons=true&locale=en&layout=compact" alt="doriandevtech" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doriandevtech&hide=python&show_icons=true&locale=en&layout=compact" alt="doriandevtech" />
+</p>
 
-##### Feel free to send me an email if you wan to connect ! 😊
+<br /><br /><br /><br />
+<br /><br />
+#### Feel free to send me an email if yout wan to connect ! 😊
 
 ### Cheers ! 👋🏻
 
