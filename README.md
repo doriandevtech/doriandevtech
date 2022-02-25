@@ -97,7 +97,7 @@
 
 <br /><br /><br /><br />
 <br /><br />
-#### Feel free to send me an email if yout wan to connect ! 😊
+#### Feel free to send me an email if yout want to connect ! 😊
 
 ### Cheers ! 👋🏻
 
