@@ -1,13 +1,13 @@
 
 <h1 align="center">🤙🏻 Hi, I’m Dorian, nice to meet me ! 😉</h1>
 
+<h2 align="center">👨🏻‍💻 Self-taught fullstack Software Engineer 👨🏻‍💻</h2>
+
 <h3 align="left">Who am I ?</h3>
 
-
-
-- 👀 I’m interested in creating and developing **web applications** in a **fullstack JS environment**
+- 👀 I’m interested in creating and developing **Web Applications** in a **Fullstack JS environment**
 - 👨🏻‍💻 I’m currently looking for a job as a **Software Engineer Fullstack JS**
-- 👷🏻‍♂️ I’m looking to collaborate on multiple, intersting and large scaled projects
+- 👷🏻‍♂️ I’m looking to collaborate on multiple, intersting and large scaled projects with #opensource contributions
 
 ### Here is my personnal MOTTO :
   1. Learn 👨🏻‍🏫
