@@ -14,7 +14,7 @@
   1. `Code` 👨🏻‍💻
   1. Repeat 🔁
 
-Not very original but it suits me very well 😊
+Not very original but it suits me very well !
 
 **Cheers ! 👋🏻**
 
