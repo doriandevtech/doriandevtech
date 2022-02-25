@@ -1,5 +1,5 @@
 
-<h1 align="center">🤙🏻 Hi, I’m Dorian, nice to meet me ! 😉</h1>
+<h1 align="center">🤙🏻 Hi, I’m Dorian ! 😉</h1>
 
 <h2 align="center">👨🏻‍💻 Self-taught fullstack Software Engineer 👨🏻‍💻</h2>
 
