@@ -9,11 +9,6 @@
 - 👨🏻‍💻 I’m currently looking for a job as a **Software Engineer Fullstack JS**
 - 👷🏻‍♂️ I’m looking to collaborate on multiple, intersting and large scaled projects with **#opensource** contributions
 
-### Here is my personnal MOTTO :
-  1. Learn 👨🏻‍🏫
-  1. `Code` 👨🏻‍💻
-  1. Repeat 🔁
-
 <h3 align="left">Connect with me:</h3>
 
 #### 📨 : dorianemenir@gmail.com
