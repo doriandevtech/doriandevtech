@@ -6,7 +6,7 @@
 <h3 align="left">Who am I ?</h3>
 
 - 👀 I’m interested in creating and developing **Web Applications** in a **Fullstack JS environment**
-- 👨🏻‍💻 I’m currently looking for a job as a **Software Engineer Fullstack JS**
+- 👨🏻‍💻 I’m currently looking for **#opensources projects** opportunities as a **Software Engineer Fullstack JS**
 - 👷🏻‍♂️ I’m looking to collaborate on multiple, intersting and large scaled projects with **#opensource** contributions
 
 <h3 align="left">Connect with me:</h3>
