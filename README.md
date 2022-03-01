@@ -8,10 +8,9 @@
 - 👀 I’m currently working on multiple **Web Applications** as a **Fullstack JS Developer**
 - 👨🏻‍💻 I’m looking for **#opensources projects** opportunities to work on and improve my skills
 - 👷🏻‍♂️ Feel free to see my latest projects such **google-maps-clone** and **corona19-tracker** from my pinned repositories down below !
+- 📨 Feel free to send me an email : dorianemenir@gmail.com
 
 <h3 align="left">Connect with me:</h3>
-
-#### 📨 : dorianemenir@gmail.com
  
 <a href="https://www.linkedin.com/in/dorian-emenir-541b98144/"><img align=left src="https://user-images.githubusercontent.com/61510923/155706452-ceb6a5a7-89e7-43ef-8239-f7dc23c68586.png" alt="icon | LinkedIn" width="40px"/>
 </a>
