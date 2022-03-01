@@ -7,7 +7,7 @@
 
 - 👀 I’m currently working on multiple **Web Applications** as a **Fullstack JS Developer**
 - 👨🏻‍💻 I’m looking for **#opensources projects** opportunities to work on and improve my skills
-- 👷🏻‍♂️ Feel free to see my latest projects such **google-maps-clone** and **corona19-tracker** from my pinned repositories down below !
+- 👷🏻‍♂️ Feel free to see my latest projects such as my **google-maps-clone** and the **corona19-tracker** from my pinned repositories down below
 - 📨 Feel free to send me an email : dorianemenir@gmail.com
 
 <h3 align="left">Connect with me:</h3>
