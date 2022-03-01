@@ -5,9 +5,9 @@
 
 <h3 align="left">Who am I ?</h3>
 
-- 👀 I’m interested in creating and developing **Web Applications** in a **Fullstack JS environment**
-- 👨🏻‍💻 I’m currently looking for **#opensources projects** opportunities as a **Software Engineer Fullstack JS**
-- 👷🏻‍♂️ I’m looking to collaborate on multiple, intersting and large scaled projects with **#opensource** contributions
+- 👀 I’m currently working on multiple **Web Applications** as a **Fullstack JS Developer**
+- 👨🏻‍💻 I’m looking for **#opensources projects** opportunities to work on and improve my skills
+- 👷🏻‍♂️ Feel free to see my latest projects such **google-maps-clone** and **corona19-tracker** from my pinned repositories down below !
 
 <h3 align="left">Connect with me:</h3>
 
