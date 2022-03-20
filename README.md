@@ -74,7 +74,7 @@
 <br /><br /><br /><br />
 <br /><br />
 
-<h2 align="center">👋 Cheers ! 👋🏻</h2>
+<h2 align="center">👋🏻 Cheers ! 👋🏻</h2>
 
 <!---
 doriandevtech/doriandevtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
