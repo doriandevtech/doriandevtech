@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
  
-<a href="https://www.linkedin.com/in/dorian-emenir-541b98144/"><img align=left src="https://user-images.githubusercontent.com/61510923/155706452-ceb6a5a7-89e7-43ef-8239-f7dc23c68586.png" alt="icon | LinkedIn" width="40px"/>
+<a href="https://www.linkedin.com/in/dorian-emenir-541b98144/" target="_blank"><img align=left src="https://user-images.githubusercontent.com/61510923/155706452-ceb6a5a7-89e7-43ef-8239-f7dc23c68586.png" alt="icon | LinkedIn" width="40px"/>
 </a>
-<a href="https://stackoverflow.com/users/16067048/doriandevtech"><img align=left src="https://user-images.githubusercontent.com/61510923/155719532-91f3f461-54b7-46db-8d4d-33949d2d4d6a.png" alt="icon | LinkedIn" width="40px"/>
+<a href="https://stackoverflow.com/users/16067048/doriandevtech" target="_blank"><img align=left src="https://user-images.githubusercontent.com/61510923/155719532-91f3f461-54b7-46db-8d4d-33949d2d4d6a.png" alt="icon | LinkedIn" width="40px"/>
 </a>
 <br /><br />
 
