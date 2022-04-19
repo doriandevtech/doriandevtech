@@ -10,18 +10,20 @@
 - 👷🏻‍♂️ Feel free to see my latest projects such as my **google-maps-clone** and the **corona19-tracker** from my pinned repositories down below
 - 📨 Feel free to send me an email : dorianemenir@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
  
-<a href="https://www.linkedin.com/in/dorian-emenir-541b98144/" target="_blank"><img align=left src="https://user-images.githubusercontent.com/61510923/155706452-ceb6a5a7-89e7-43ef-8239-f7dc23c68586.png" alt="icon | LinkedIn" width="40px"/>
+<p align="center" >
+<a href="https://www.linkedin.com/in/dorian-emenir-541b98144/" target="_blank"><img src="https://user-images.githubusercontent.com/61510923/155706452-ceb6a5a7-89e7-43ef-8239-f7dc23c68586.png" alt="icon | LinkedIn" width="40px"/>
 </a>
-<a href="https://stackoverflow.com/users/16067048/doriandevtech" target="_blank"><img align=left src="https://user-images.githubusercontent.com/61510923/155719532-91f3f461-54b7-46db-8d4d-33949d2d4d6a.png" alt="icon | LinkedIn" width="40px"/>
+<a href="https://stackoverflow.com/users/16067048/doriandevtech" target="_blank"><img src="https://user-images.githubusercontent.com/61510923/155719532-91f3f461-54b7-46db-8d4d-33949d2d4d6a.png" alt="icon | LinkedIn" width="40px"/>
 </a>
-<br /><br />
+<br />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
-<p align="left"> 
-  <h5 align="left">Languages:</h4>
+<h4 align="center">Languages:</h4>
+<p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
@@ -37,8 +39,10 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
-  
-  <h5 align="left">Frameworks:</h4>
+</p>
+
+<h4 align="center">Frameworks:</h4>
+<p align="center"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
@@ -55,15 +59,23 @@
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
   </a> 
   
-  <h5 align="left">Database:</h4>
+<h4 align="center">Databases:</h4>
+<p align="center"> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> 
   </a> 
   <br/>
 </p>
 
+<p align="center"> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doriandevtech&show_icons=true" alt="doriandevtech" /></p>
-
+</p>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doriandevtech&hide=python&show_icons=true&locale=en&layout=compact" alt="doriandevtech" />
 </p>
