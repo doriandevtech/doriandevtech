@@ -1,3 +1,4 @@
+![Bordered Sunflower Photo Web Banner](https://user-images.githubusercontent.com/61510923/166158741-5163eba3-be01-4dbd-a15e-b3eb5731fc6f.png)
 
 <h1 align="center">🤙🏻 Hi, I’m Dorian ! 😉</h1>
 
@@ -5,9 +6,9 @@
 
 <h3 align="left">Who am I ?</h3>
 
-- 👀 I’m currently working on multiple **Web Applications** as a **Fullstack JS Developer**
+- 👀 I’m currently working on multiple as a **Fullstack JS Developer** using ReactJS and NestJS
 - 👨🏻‍💻 I’m looking for **#opensources projects** opportunities to work on and improve my skills
-- 👷🏻‍♂️ Feel free to see my latest projects such as my **google-maps-clone** and the **corona19-tracker** from my pinned repositories down below
+- 👷🏻‍♂️ Feel free to see my latest projects such as my **MyLibraryManagement** and contribute to it !
 - 📨 Feel free to send me an email : dorianemenir@gmail.com
 
 <h3 align="center">Connect with me:</h3>
