@@ -1,8 +1,14 @@
 ![Bordered Sunflower Photo Web Banner](https://user-images.githubusercontent.com/61510923/166158741-5163eba3-be01-4dbd-a15e-b3eb5731fc6f.png)
 
-<h1 align="center">🤙🏻 Hi, I’m Dorian ! 😉</h1>
+<h1 align="center">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
+  </a> Hi, I’m Dorian ! <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="30" height="30"/> 
+  </a>
+</h1>
 
-<h2 align="center">👨🏻‍💻 Self-taught fullstack Software Engineer 👨🏻‍💻</h2>
+<h2 align="center">👨🏻‍💻 Self-taught fullstack Software Engineer 👨🏻‍💻</h2> 
 
 <h3 align="left">Who am I ?</h3>
 
