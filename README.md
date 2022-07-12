@@ -1,4 +1,4 @@
-![Bordered Sunflower Photo Web Banner](https://user-images.githubusercontent.com/61510923/166158741-5163eba3-be01-4dbd-a15e-b3eb5731fc6f.png)
+![White Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/61510923/178586155-e0d64a64-d0ac-4fe9-89a0-9c9bb26d48fb.png)
 
 <h1 align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
