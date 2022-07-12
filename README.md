@@ -1,11 +1,7 @@
 ![White Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/61510923/178586155-e0d64a64-d0ac-4fe9-89a0-9c9bb26d48fb.png)
 
 <h1 align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
-  </a> Hi, I’m Dorian ! <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="30" height="30"/> 
-  </a>
+  Hi there, I’m Dorian !
 </h1>
 
 <h2 align="center">👨🏻‍💻 Self-taught fullstack Software Engineer 👨🏻‍💻</h2> 
