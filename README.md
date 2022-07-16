@@ -10,7 +10,7 @@
 
 - 👀 I’m currently working on multiple as a **Fullstack JS Developer** using ReactJS and NestJS
 - 👨🏻‍💻 I’m looking for **#opensources projects** opportunities to work on and improve my skills
-- 👷🏻‍♂️ Feel free to see my latest projects such as my **MyLibraryManagement** and contribute to it !
+- 👷🏻‍♂️ Feel free to see my latest projects such as my **MyLibraryManagement** and **MyWeatherApp** and contribute to them !
 - 📨 Feel free to send me an email : dorianemenir@gmail.com
 
 <h3 align="center">Connect with me:</h3>
