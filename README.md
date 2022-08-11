@@ -4,7 +4,7 @@
   Hi there, I’m Dorian !
 </h1>
 
-<h2 align="center">👨🏻‍💻 Self-taught fullstack Software Engineer 👨🏻‍💻</h2> 
+<h2 align="center">👨🏻‍💻 Fullstack Software Engineer (React, JS, TS, Node) 👨🏻‍💻</h2> 
 
 <h3 align="left">Who am I ?</h3>
 
