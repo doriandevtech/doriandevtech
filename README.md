@@ -10,7 +10,7 @@
 
 - 👀 I’m currently working on multiple as a **Fullstack JS Developer** using ReactJS and NestJS
 - 👨🏻‍💻 I’m looking for **#opensources projects** opportunities to work on and improve my skills
-- 👷🏻‍♂️ Feel free to see my latest projects such as my **MyLibraryManagement** and **MyWeatherApp** and contribute to them !
+- 👷🏻‍♂️ Feel free to see my latest projects such as my 💰**TheCryptoApp**💰 and ☀️**MyWeatherApp**☀️ and contribute to them !
 - 📨 Feel free to send me an email : dorianemenir@gmail.com
 
 <h3 align="center">Connect with me:</h3>
@@ -77,10 +77,10 @@
 </p>
 
 <p align="center"> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doriandevtech&show_icons=true&include_all_commits=true&theme=cobalt" alt="doriandevtech" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doriandevtech&show_icons=true&include_all_commits=true1count_private=true" alt="doriandevtech" /></p>
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doriandevtech&hide=python&show_icons=true&locale=en&layout=compact&theme=dracula" alt="doriandevtech" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doriandevtech&hide=python&show_icons=true&locale=en&layout=compact" alt="doriandevtech" />
 </p>
 
 <br /><br /><br /><br />
