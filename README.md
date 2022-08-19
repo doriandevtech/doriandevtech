@@ -13,7 +13,7 @@
 - 👷🏻‍♂️ Feel free to see my latest projects such as my <a href="https://thecryptocurrencyapp.netlify.app/" target="_blank">💰**TheCryptoApp**💰
 </a> and <a href="https://github.com/doriandevtech/MyFitnessApp.git" target="_blank">💪🏻**MyFitnessApp**💪🏻
 </a> and contribute to them !
-- 📨 Feel free to send me an email : dorianemenir@gmail.com
+- 📨 If you want to reach out feel free to send me an email : dorianemenir@gmail.com
 
 <h3 align="center">Connect with me:</h3>
  
