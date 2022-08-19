@@ -8,7 +8,7 @@
 
 <h3 align="left">Who am I ?</h3>
 
-- 👀 I’m currently working on multiple as a **Fullstack JS Developer** using ⚛️ ReactJS ⚛️ and 🐈‍⬛ NestJS 🐈‍⬛
+- 👀 I’m currently working on multiple projects as a **Fullstack JS Developer** using ⚛️ ReactJS ⚛️ and 🐈‍⬛ NestJS 🐈‍⬛
 - 👨🏻‍💻 I’m looking for **#opensources projects** opportunities to work on and improve my skills
 - 👷🏻‍♂️ Feel free to see my latest projects such as my <a href="https://thecryptocurrencyapp.netlify.app/" target="_blank">💰**TheCryptoApp**💰
 </a> and <a href="https://github.com/doriandevtech/MyFitnessApp.git" target="_blank">💪🏻**MyFitnessApp**💪🏻
