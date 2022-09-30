@@ -1,4 +1,4 @@
-![White Minimalist Profile LinkedIn Banner-4](https://user-images.githubusercontent.com/61510923/187219214-09f4b227-f988-470e-a98e-6f0b8f766895.png)
+![White Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/61510923/193275493-ad9d00a7-4261-4188-9b88-523dfffaa29a.png)
 
 <h1 align="center">
   Hi there, I’m Dorian !
