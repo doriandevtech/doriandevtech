@@ -81,6 +81,9 @@
 <p align="center"> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doriandevtech&show_icons=true&include_all_commits=true1count_private=true" alt="doriandevtech" /></p>
 </p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doriandevtech&hide=python&show_icons=true&locale=en&layout=compact" alt="doriandevtech" />
+</p>
 
 <br /><br /><br /><br />
 <br /><br />
