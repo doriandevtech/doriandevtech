@@ -6,7 +6,7 @@
 
 <h2 align="center"> Fullstack Software Engineer 👨🏻‍💻</h2> 
 
-<h3 align="left">Who am I ?</h3>
+<h3 align="left">Whhat am I doing here ?</h3>
 
 - 👀 I’m currently learning Swift & SwiftUI using Apple Developer Documentation and Ressources across the internet 🌐.
 - 🏆 My goal, as of today, is to build ans submit my first app on the App Store by mid-year 📆 (around june or july).
