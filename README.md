@@ -8,8 +8,7 @@
 
 - 👀 I’m currently learning **Swift** using Apple Developer Documentation and ressources across the internet 🌐.
 - 🏆 My goal, as of today, is to build and submit my **1st** **app** on the App Store📱 by mid-year 📆 (around june or july).
-- 🧠 My learning process is by getting **informations* 
-* and trying to transform them into **knowledge**, by coding by myself 👨🏻‍🔧
+- 🧠 My learning process is by getting **informations** and trying to transform them into **knowledge**, by coding by myself 👨🏻‍🔧
 - 🧑🏻‍💻 I just build my first apps in Swift called **AsianFoodApp** and **MySneakers**, they are #OpenSource 🔓 so don't hesitate to check them out 👇 and give me feedbacks ⏮️ 
 
 <p align="center"> 
