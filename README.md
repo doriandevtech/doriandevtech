@@ -4,7 +4,7 @@
 
 <h2 align="center"> Software Engineer 👨🏻‍💻</h2> 
 
-<h3 align="left">What do I do in the coding wolrd ?</h3>
+<h3 align="left">What do I do in the coding world ?</h3>
 
 - 👀 I’m learning **Swift** using Apple Developer Documentation and ressources across the internet 🌐.
 - 🏆 My goal is to build and submit my **1st** **app** on the App Store📱 by mid-year 📆 (around june or july).
