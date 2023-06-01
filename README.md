@@ -9,7 +9,7 @@
 - 👀 I’m learning **Swift** using Apple Developer Documentation and ressources across the internet 🌐.
 - 🏆 My goal is to build and submit my **1st** **app** on the App Store📱 by mid-year 📆 (around june or july).
 - 🧠 My learning process is by getting **informations** and trying to transform them into **knowledge**, by coding by myself 👨🏻‍🔧
-- 🧑🏻‍💻 I just build my first app in Swift called **PythagoreanFinderApp**, it is an #OpenSource project 🔓 so don't hesitate to check it out 👇 and give me feedbacks ⏮️ 
+- 🧑🏻‍💻 I just published an project in #Swift named **MyKeychain**, it is an #OpenSource project 🔓 so don't hesitate to check it out 👇 and give me feedbacks ⏮️ 
 
 <p align="center"> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doriandevtech&show_icons=true&include_all_commits=true1count_private=true" alt="doriandevtech" /></p>
