@@ -4,10 +4,10 @@
 
 <h2 align="center"> Software Engineer 👨🏻‍💻</h2> 
 
-<h3 align="left">What do I do in the coding world ?</h3>
+<h3 align="left">Why am I here ?</h3>
 
 - 👀 I’m learning **Swift** using Apple Developer Documentation and ressources across the internet 🌐.
-- 🏆 My goal is to build and submit my **1st** **app** on the App Store📱 by mid-year 📆 (around june or july).
+- 🏆 My goal is to build and submit my **1st** **app** on the App Store📱 this year, 2023.
 - 🧠 My learning process is by getting **informations** and trying to transform them into **knowledge**, by coding by myself 👨🏻‍🔧
 - 🧑🏻‍💻 I just published an project in #Swift named **MyKeychain**, it is an #OpenSource project 🔓 so don't hesitate to check it out 👇 and give me feedbacks ⏮️ 
 
@@ -19,6 +19,7 @@
 </p>
 
 <br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
 <br /><br />
 
 <h2 align="center">👋🏻 Let's 👨🏻‍💻 ! 👋🏻</h2>
