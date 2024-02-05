@@ -7,7 +7,7 @@
 <h3 align="left">Why am I here ?</h3>
 
 - 👀 I’m learning **Swift** and **SwiftUI** using Apple Developer Documentation and ressources across the internet 🌐.
-- 🏆 My goal is to build and submit my **1st** **app** on the App Store 📱 this year, 2023.
+- 🏆 My goal is to build and submit my **1st** **app** on the App Store 📱 this year, 2024.
 - 🧠 My learning process is by getting **informations** and trying to transform them into **knowledge**, by coding myself 👨🏻‍🔧
 - 🧑🏻‍💻 I currently developing an project called **NormandieSpots** build in #SwiftUI. It is an #OpenSource project 🔓 so don't hesitate to check it out 👇 and give me feedbacks ⏮️ 
 
