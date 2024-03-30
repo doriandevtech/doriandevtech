@@ -9,7 +9,7 @@
 - 👀 I’m learning **Swift** and **SwiftUI** using Apple Developer Documentation and ressources across the internet 🌐.
 - 🏆 My goal is to build and submit my **1st** **app** on the App Store 📱 this year, 2024.
 - 🧠 My learning process is by getting **informations** and trying to transform them into **knowledge**, by coding myself 👨🏻‍🔧
-- 🧑🏻‍💻 I currently developing an project called **NormandieSpots** build in #SwiftUI. It is an #OpenSource project 🔓 so don't hesitate to check it out 👇 and give me feedbacks ⏮️ 
+- 🧑🏻‍💻 I currently developing a project called **NormandieSpotsApp** build in #SwiftUI. It is an #OpenSource project 🔓 so don't hesitate to check it out 👇 and give me feedbacks ⏮️ 
 
 <p align="center"> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doriandevtech&show_icons=true&include_all_commits=true1count_private=true" alt="doriandevtech" /></p>
