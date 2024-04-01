@@ -1,8 +1,8 @@
-<h1 align="center">
+<h1 align="left">
   Hi there, I’m Dorian 👋
 </h1>
 
-<h2 align="center"> Software Engineer 👨🏻‍💻</h2> 
+<h2 align="left"> I'm a Software Engineer 👨🏻‍💻 (no kidding... 😂)</h2>
 
 <h3 align="left">Why am I here ?</h3>
 
